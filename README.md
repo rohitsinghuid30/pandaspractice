@@ -1,2 +1,2 @@
 Pandas Practice
-Pandas is fast and efficeient package in the data science era.How to manupulate data in day to day life this tutorial will show. just follow the steps and start journey with pandas dataframe with us.
+Pandas is fast and efficeient package in the data science era. in this tutorial we have see How to manupulate data in day to day life, you just follow the steps and start journey with pandas dataframe with us.
